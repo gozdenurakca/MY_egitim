@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace ConsoleApp //projeye verdiğimiz isim
 {
     internal class Program  // internal --> erişim belirleyici
@@ -132,8 +131,7 @@ namespace ConsoleApp //projeye verdiğimiz isim
             
             
             #endregion
-
-
+            
             Console.Read();
 
         }
